@@ -6,7 +6,7 @@ English:
 
 Tiếng Việt:
 - Chuyển đổi DenyList sang MagiskHide: Ứng dụng trong DenyList vẫn sẽ được tải các module Zygisk.
-- Cho phép MagiskHide các tiến trình cô lập nếu Zygisk được bật.
+- Cho phép MagiskHide xử lý các tiến trình cô lập nếu Zygisk được bật.
 
 
 ## Magisk (cacf8736) (25001)
