@@ -4,8 +4,9 @@ This repo hosts Magisk related files
 
 ## Download
 
-- [Canary](https://gh.api.99988866.xyz/https://raw.githubusercontent.com/HuskyDG/magisk-files/main/app-release.apk)
-- [Debug](https://gh.api.99988866.xyz/https://raw.githubusercontent.com/HuskyDG/magisk-files/main/app-release.apk)
+- [Magisk Canary](https://gh.api.99988866.xyz/https://raw.githubusercontent.com/HuskyDG/magisk-files/main/app-release.apk)
+- [Magisk Debug](https://gh.api.99988866.xyz/https://raw.githubusercontent.com/HuskyDG/magisk-files/main/app-release.apk)
+- [Source code](https://gh.api.99988866.xyz/https://raw.githubusercontent.com/HuskyDG/magisk-files/main/source-code.zip)
 
 ## Others
 
