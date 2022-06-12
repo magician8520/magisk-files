@@ -1,4 +1,6 @@
 # Magisk File Host
+> This is unofficial Magisk fork
+
 
 This repo hosts Magisk related files
 
