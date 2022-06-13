@@ -8,14 +8,7 @@ This repo hosts Magisk related files
 
 ## Introduction
 
-Magisk is a suite of open source software for customizing Android, supporting devices higher than Android 5.0.<br>
-Some highlight features:
-
-- **MagiskSU**: Provide root access for applications
-- **Magisk Modules**: Modify read-only partitions by installing modules
-- **MagiskBoot**: The most complete tool for unpacking and repacking Android boot images
-- **Zygisk**: Run code in every Android applications' processes
-- **MagiskHide**: Hide Magisk from root detections / system integrity checks
+Custom Magisk fork by HuskyDG. Sync with official Magisk adding back hiding functionality and more advanced hiding such as hide zygisk. Support hiding for isolated process and app zygote (for Android 10 and bellow).
 
 ## Download
 
