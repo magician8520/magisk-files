@@ -1,4 +1,4 @@
-## Magisk (01839a56) by HuskyDG
+## Magisk (198dd633) by HuskyDG
 
 - Restore MagiskHide functionality. MagiskHide can be enabled with or without Zygisk. After enable MagiskHide, apps in DenyList will still have Zygisk module loaded
 - Advanced hiding for MagiskHide: Allow MagiskHide to handle isolated process when Zygisk is enabled

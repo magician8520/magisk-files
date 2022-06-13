@@ -1,4 +1,4 @@
-## Magisk (01839a56) by HuskyDG
+## Magisk (198dd633) by HuskyDG
 
 > Debug version might unstable. Do not use if not needed
 
