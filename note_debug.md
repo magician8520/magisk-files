@@ -1,4 +1,4 @@
-## Magisk (198dd633) by HuskyDG
+## Magisk-delta (3a26fc41) by HuskyDG
 
 > Debug version might unstable. Do not use if not needed
 
@@ -7,6 +7,7 @@
 - Clean up preload when hiding with MagiskHide
 - The package name is `io.github.huskydg.magisk`
 - MagiskHide option does not affect Enforce DenyList option in database
+- Fix checked box of Recovery Mode option doesn't finding recovery image on direct install
 
 ## Magisk upsteam to commit 71205bc (25001)
 
