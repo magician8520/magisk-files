@@ -19,4 +19,4 @@ Custom Magisk fork by HuskyDG. Sync with official Magisk adding back hiding func
 ## Others
 
 - [Changelog](https://github.com/HuskyDG/magisk-files/blob/main/note.md)
-- [Telegram channel](https://t.me/HuskyDG)
+- [Telegram channel](https://t.me/magiskdelta)
