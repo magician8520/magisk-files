@@ -10,7 +10,7 @@ This repo hosts Magisk delta related files
 
 > If you are looking for official Magisk source, please [go to this page](https://github.com/topjohnwu/Magisk)
 
-Custom Magisk fork by HuskyDG. Sync with official Magisk adding back hiding functionality and more advanced hiding such as hide zygisk. Support hiding for isolated process and app zygote (for Android 10 and bellow).
+Custom Magisk fork by HuskyDG. Sync with official Magisk adding back MagiskHide.
 
 Magisk Delta is commited to only include back MagiskHide and will not add further unofficial changes into this Magisk fork. You can review the source code if you are still wondering.
 
