@@ -42,3 +42,7 @@ Magisk Delta is commited to only include back MagiskHide and will not add furthe
 ## Others
 
 - [Telegram channel](https://t.me/magiskdelta)
+
+## Credit
+
+- [Fox2Code/Nopgisk](http://github.com/Fox2Code/Nopgisk) - provide some code for improving MagiskHide.
