@@ -1,4 +1,4 @@
-## Magisk-delta (3a26fc41) by HuskyDG
+## Magisk-delta (8fd6e293) by HuskyDG
 
 - Restore MagiskHide functionality. MagiskHide can be enabled with or without Zygisk. After enable MagiskHide, apps in DenyList will still have Zygisk module loaded
 - Advanced hiding for MagiskHide: Allow MagiskHide to handle isolated process when Zygisk is enabled
@@ -7,9 +7,10 @@
 - MagiskHide option does not affect Enforce DenyList option in database
 - Fix checked box of Recovery Mode option doesn't finding recovery image on direct install
 
-## Magisk upsteam to commit 71205bc (25001)
+## Magisk (9183a0a6) (25101)
 
-- Update hijack bins
-- Fix update in recovery patch mode
-- Update ramdisk restore implementation
-- Better network detection and invalidation
+- Sync to public release
+
+## Diffs to v25.1
+
+- None

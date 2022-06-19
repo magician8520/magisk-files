@@ -1,12 +1,12 @@
 {
   "magisk": {
-    "version": "3a26fc41",
-    "versionCode": "25001",
+    "version": "8fd6e293",
+    "versionCode": "25101",
     "link": "https://huskydg.github.io/magisk-files/app-debug.apk",
     "note": "https://huskydg.github.io/magisk-files/note_debug.md"
   },
   "stub": {
-    "versionCode": "31",
+    "versionCode": "32",
     "link": "https://huskydg.github.io/magisk-files/stub-debug.apk"
   }
 }

@@ -1,4 +1,4 @@
-## Magisk-delta v24.3 by HuskyDG
+## Magisk-delta v25.1 by HuskyDG
 
 - Restore MagiskHide functionality. MagiskHide can be enabled with or without Zygisk. After enable MagiskHide, apps in DenyList will still have Zygisk module loaded
 - Advanced hiding for MagiskHide: Allow MagiskHide to handle isolated process when Zygisk is enabled
@@ -6,9 +6,11 @@
 - The package name is `io.github.huskydg.magisk`
 - MagiskHide option does not affect Enforce DenyList option in database
 
-## Magisk v24.3 Official changes
+## Magisk v25.1 Official changes
 
-- [General] Stop using getrandom syscall
-- [Zygisk] Update API to v3, adding new fields to AppSpecializeArgs
-- [App] Improve app repackaging installation workflow
-
+- [MagiskBoot] Fix ramdisk backup being incorrectly skipped
+- [MagiskBoot] Add new feature to detect unsupported dtb and abort during installation
+- [Zygisk] Change binary hijack paths
+- [App] Fix incorrect recovery mode detection and installation
+- [MagiskInit] Fix config not properly exported in legacy SAR devices
+- [General] Enforce the Magisk app to always match or be newer than magiskd
