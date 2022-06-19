@@ -27,8 +27,8 @@ Magisk Delta is commited to only include back MagiskHide and will not add furthe
 
 > For most user, Stable build is recommended
 
-- [Magisk v24.3](https://huskydg.github.io/download/magisk/24.3-delta.apk)
-- [Source code](https://huskydg.github.io/download/magisk/24.3-delta.zip)
+- [Magisk v25.1](https://huskydg.github.io/download/magisk/25.1-delta.apk)
+- [Source code](https://huskydg.github.io/download/magisk/25.1-delta.zip)
 
 
 ### Canary
