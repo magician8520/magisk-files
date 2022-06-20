@@ -12,7 +12,8 @@ This repo hosts Magisk delta related files
 
 Custom Magisk fork by HuskyDG. Sync with official Magisk adding back MagiskHide.
 
-Magisk Delta is commited to only include back MagiskHide and will not add further unofficial changes into this Magisk fork. You can review the source code if you are still wondering.
+Why restore MagiskHide? Although MagiskHide is removed in official Magisk, it is still effectively useful to hide root from almost banking apps. It's also benefits for Riru users who cannot use Magisk v23 and want hiding. 
+
 
 ## Changelog
 
